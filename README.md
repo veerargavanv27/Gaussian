@@ -13,8 +13,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: 
-RegisterNumber: 
+Developed by: VEERARAGAVAN V
+RegisterNumber: 23004739
 */
 import numpy as np
 import sys
